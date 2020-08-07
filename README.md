@@ -1,16 +1,29 @@
-### Hi there 👋
+# OK
 
-<!--
-**sachafroment/sachafroment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+                     ,_ ,_==▄▂
+                  ,  ▂▃▄▄▅▅▅▂▅¾.            /    /
+                   ▄▆<´  "»▓▓▓%\       / /   / /
+                 ,▅7"     ´>▓▓▓%   /  / > / >/%
+                 ▐¶▓       ,»▓▓¾´  /> %/%// /  /
+                  ▓▃▅▅▅▃,,▄▅▅▅Æ\// ///>// />/   /
+                 V║«¼.;→ ║<«.,`=// />//%/% / /
+               //╠<´ -²,)(▓~"-╝/¾/ %/>/ />
+           / / / ▐% -./▄▃▄▅▐, /7//;//% / /
+           / ////`▌▐ %zWv xX▓▇▌//&;% / /
+       / / / %//%/¾½´▌▃▄▄▄▄▃▃▐¶\/& /
+         </ /</%//`▓!%▓%╣WY<Y)y&/`\
+     / / %/%//</%//\i7; ╠N>)VY>7;  \_    UNIX IS VERY SIMPLE IT JUST NEEDS A
+  /   /</ //<///<_/%\▓  V%W%£)XY  _/%‾\_,   GENIUS TO UNDERSTAND ITS SIMPLICITY
+   / / //%/_,=--^/%/%%\¾%¶%%}    /%%%%%%;\,
+    %/< /_/ %%%%%;X%%\%%;,     _/%%%;,     \
+   / / %%%%%%;,    \%%l%%;// _/%;, dmr
+ /    %%%;,         <;\-=-/ /
+     ;,                l
+
+
+
+```
