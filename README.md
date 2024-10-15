@@ -3,9 +3,6 @@
 *Status*: Working on simple software that does what it's supposed to.
 
 ```
-
-
-
                      ,_ ,_==▄▂
                   ,  ▂▃▄▄▅▅▅▂▅¾.            /    /
                    ▄▆<´  "»▓▓▓%\       / /   / /
@@ -25,7 +22,4 @@
    / / %%%%%%;,    \%%l%%;// _/%;, dmr
  /    %%%;,         <;\-=-/ /
      ;,                l
-
-
-
 ```
