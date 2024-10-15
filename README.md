@@ -1,4 +1,6 @@
-# OK
+# Professional Programmer
+
+*Status*: Working on simple software that does what it's supposed to.
 
 ```
 
